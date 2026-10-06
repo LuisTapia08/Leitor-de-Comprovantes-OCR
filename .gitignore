@@ -1,0 +1,18 @@
+# Ambiente virtual
+/venv
+/.venv
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# IDE / editor
+.vscode/
+.idea/
+
+# Arquivos gerados pelo projeto
+imagem_tratada.png
+resultado_ocr.json
+*.log
